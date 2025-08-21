@@ -1,5 +1,7 @@
 ## Description
 
+![PXL_20250820_213936612](https://github.com/user-attachments/assets/153c29c2-81bd-451d-8bd2-8c7f80474369)
+
 M5StickC Plus2 remote control for DJI Osmo Action 5 Pro cameras.
 
 Switch modes, start/stop recording, capture photo, sleep, wake, automatic reconnection, and GPIO control. 
