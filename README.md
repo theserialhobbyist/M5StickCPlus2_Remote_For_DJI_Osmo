@@ -8,6 +8,8 @@ GPS not supported in this version!
 
 More info here: https://serialhobbyism.com/open-source-diy-remote-for-dji-osmo-action-5-pro-cameras
 
+Demo on YouTube: https://youtube.com/shorts/t92D7x2sBuA?feature=share
+
 ## Hardware Specifications
 
 The M5StickC Plus2 features:
